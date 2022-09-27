@@ -3,3 +3,11 @@ p {
     color: blue;
     text-align: center;
 }
+
+div {
+    margin-top: -300px;
+    margin-left: 550px;
+    background-color: yellow;
+    width: 500px;
+    height: 300px;
+}
